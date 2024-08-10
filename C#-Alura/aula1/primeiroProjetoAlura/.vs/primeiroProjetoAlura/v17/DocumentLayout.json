@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Luiz\\C#\\C#-Alura\\aula1\\primeiroProjetoAlura\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A7F24E0-3E57-4BAB-B2CF-E67B1286D28C}|primeiroProjetoAlura\\primeiroProjetoAlura.csproj|d:\\luiz\\c#\\c#-alura\\aula1\\primeiroprojetoalura\\primeiroprojetoalura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A7F24E0-3E57-4BAB-B2CF-E67B1286D28C}|primeiroProjetoAlura\\primeiroProjetoAlura.csproj|solutionrelative:primeiroprojetoalura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Luiz\\C#\\C#-Alura\\aula1\\primeiroProjetoAlura\\primeiroProjetoAlura\\Program.cs",
+              "RelativeDocumentMoniker": "primeiroProjetoAlura\\Program.cs",
+              "ToolTip": "D:\\Luiz\\C#\\C#-Alura\\aula1\\primeiroProjetoAlura\\primeiroProjetoAlura\\Program.cs",
+              "RelativeToolTip": "primeiroProjetoAlura\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T19:05:34.009Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\Luiz\C#\C#-Alura\aula1\primeiroProjetoAlura\primeiroProjetoAlura\bin\Debug\net8.0\primeiroProjetoAlura.exe
+D:\Luiz\C#\C#-Alura\aula1\primeiroProjetoAlura\primeiroProjetoAlura\bin\Debug\net8.0\primeiroProjetoAlura.deps.json
+D:\Luiz\C#\C#-Alura\aula1\primeiroProjetoAlura\primeiroProjetoAlura\bin\Debug\net8.0\primeiroProjetoAlura.runtimeconfig.json
+D:\Luiz\C#\C#-Alura\aula1\primeiroProjetoAlura\primeiroProjetoAlura\bin\Debug\net8.0\primeiroProjetoAlura.dll
+D:\Luiz\C#\C#-Alura\aula1\primeiroProjetoAlura\primeiroProjetoAlura\bin\Debug\net8.0\primeiroProjetoAlura.pdb
+D:\Luiz\C#\C#-Alura\aula1\primeiroProjetoAlura\primeiroProjetoAlura\obj\Debug\net8.0\primeiroProjetoAlura.GeneratedMSBuildEditorConfig.editorconfig
+D:\Luiz\C#\C#-Alura\aula1\primeiroProjetoAlura\primeiroProjetoAlura\obj\Debug\net8.0\primeiroProjetoAlura.AssemblyInfoInputs.cache
+D:\Luiz\C#\C#-Alura\aula1\primeiroProjetoAlura\primeiroProjetoAlura\obj\Debug\net8.0\primeiroProjetoAlura.AssemblyInfo.cs
+D:\Luiz\C#\C#-Alura\aula1\primeiroProjetoAlura\primeiroProjetoAlura\obj\Debug\net8.0\primeiroProjetoAlura.csproj.CoreCompileInputs.cache
+D:\Luiz\C#\C#-Alura\aula1\primeiroProjetoAlura\primeiroProjetoAlura\obj\Debug\net8.0\primeiroProjetoAlura.sourcelink.json
+D:\Luiz\C#\C#-Alura\aula1\primeiroProjetoAlura\primeiroProjetoAlura\obj\Debug\net8.0\primeiroProjetoAlura.dll
+D:\Luiz\C#\C#-Alura\aula1\primeiroProjetoAlura\primeiroProjetoAlura\obj\Debug\net8.0\refint\primeiroProjetoAlura.dll
+D:\Luiz\C#\C#-Alura\aula1\primeiroProjetoAlura\primeiroProjetoAlura\obj\Debug\net8.0\primeiroProjetoAlura.pdb
+D:\Luiz\C#\C#-Alura\aula1\primeiroProjetoAlura\primeiroProjetoAlura\obj\Debug\net8.0\primeiroProjetoAlura.genruntimeconfig.cache
+D:\Luiz\C#\C#-Alura\aula1\primeiroProjetoAlura\primeiroProjetoAlura\obj\Debug\net8.0\ref\primeiroProjetoAlura.dll
