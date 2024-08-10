@@ -1,4 +1,12 @@
 ﻿// Screen Sound
 string mensagemDeBoasVindas = "Boas vindas ao Screen Sound";
 
-Console.WriteLine(mensagemDeBoasVindas);
+//void é uma função q não devolve nada, sem return
+void ExibirMensagemDeBoasVindas()
+{
+    Console.WriteLine("****************************************");
+    Console.WriteLine(mensagemDeBoasVindas);
+    Console.WriteLine("****************************************");
+}
+
+ExibirMensagemDeBoasVindas();
