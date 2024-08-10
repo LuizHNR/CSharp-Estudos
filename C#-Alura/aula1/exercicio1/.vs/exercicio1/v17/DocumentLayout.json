@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Luiz\\C#\\C#-Alura\\aula1\\exercicio1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3437A9C-5E97-46D7-B01D-CEE4B7A16D31}|exercicio1\\exercicio1.csproj|d:\\luiz\\c#\\c#-alura\\aula1\\exercicio1\\exercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3437A9C-5E97-46D7-B01D-CEE4B7A16D31}|exercicio1\\exercicio1.csproj|solutionrelative:exercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Luiz\\C#\\C#-Alura\\aula1\\exercicio1\\exercicio1\\Program.cs",
+              "RelativeDocumentMoniker": "exercicio1\\Program.cs",
+              "ToolTip": "D:\\Luiz\\C#\\C#-Alura\\aula1\\exercicio1\\exercicio1\\Program.cs",
+              "RelativeToolTip": "exercicio1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T19:33:13.592Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
