@@ -1,0 +1,15 @@
+d:\Luiz\C#\teste\Aula\bin\Debug\net8.0\Aula.exe
+d:\Luiz\C#\teste\Aula\bin\Debug\net8.0\Aula.deps.json
+d:\Luiz\C#\teste\Aula\bin\Debug\net8.0\Aula.runtimeconfig.json
+d:\Luiz\C#\teste\Aula\bin\Debug\net8.0\Aula.dll
+d:\Luiz\C#\teste\Aula\bin\Debug\net8.0\Aula.pdb
+d:\Luiz\C#\teste\Aula\obj\Debug\net8.0\Aula.GeneratedMSBuildEditorConfig.editorconfig
+d:\Luiz\C#\teste\Aula\obj\Debug\net8.0\Aula.AssemblyInfoInputs.cache
+d:\Luiz\C#\teste\Aula\obj\Debug\net8.0\Aula.AssemblyInfo.cs
+d:\Luiz\C#\teste\Aula\obj\Debug\net8.0\Aula.csproj.CoreCompileInputs.cache
+d:\Luiz\C#\teste\Aula\obj\Debug\net8.0\Aula.sourcelink.json
+d:\Luiz\C#\teste\Aula\obj\Debug\net8.0\Aula.dll
+d:\Luiz\C#\teste\Aula\obj\Debug\net8.0\refint\Aula.dll
+d:\Luiz\C#\teste\Aula\obj\Debug\net8.0\Aula.pdb
+d:\Luiz\C#\teste\Aula\obj\Debug\net8.0\Aula.genruntimeconfig.cache
+d:\Luiz\C#\teste\Aula\obj\Debug\net8.0\ref\Aula.dll
