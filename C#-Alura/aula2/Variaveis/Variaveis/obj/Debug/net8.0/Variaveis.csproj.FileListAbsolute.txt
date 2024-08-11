@@ -1,0 +1,15 @@
+D:\Luiz\C#\C#-Alura\aula2\Variaveis\Variaveis\bin\Debug\net8.0\Variaveis.exe
+D:\Luiz\C#\C#-Alura\aula2\Variaveis\Variaveis\bin\Debug\net8.0\Variaveis.deps.json
+D:\Luiz\C#\C#-Alura\aula2\Variaveis\Variaveis\bin\Debug\net8.0\Variaveis.runtimeconfig.json
+D:\Luiz\C#\C#-Alura\aula2\Variaveis\Variaveis\bin\Debug\net8.0\Variaveis.dll
+D:\Luiz\C#\C#-Alura\aula2\Variaveis\Variaveis\bin\Debug\net8.0\Variaveis.pdb
+D:\Luiz\C#\C#-Alura\aula2\Variaveis\Variaveis\obj\Debug\net8.0\Variaveis.GeneratedMSBuildEditorConfig.editorconfig
+D:\Luiz\C#\C#-Alura\aula2\Variaveis\Variaveis\obj\Debug\net8.0\Variaveis.AssemblyInfoInputs.cache
+D:\Luiz\C#\C#-Alura\aula2\Variaveis\Variaveis\obj\Debug\net8.0\Variaveis.AssemblyInfo.cs
+D:\Luiz\C#\C#-Alura\aula2\Variaveis\Variaveis\obj\Debug\net8.0\Variaveis.csproj.CoreCompileInputs.cache
+D:\Luiz\C#\C#-Alura\aula2\Variaveis\Variaveis\obj\Debug\net8.0\Variaveis.sourcelink.json
+D:\Luiz\C#\C#-Alura\aula2\Variaveis\Variaveis\obj\Debug\net8.0\Variaveis.dll
+D:\Luiz\C#\C#-Alura\aula2\Variaveis\Variaveis\obj\Debug\net8.0\refint\Variaveis.dll
+D:\Luiz\C#\C#-Alura\aula2\Variaveis\Variaveis\obj\Debug\net8.0\Variaveis.pdb
+D:\Luiz\C#\C#-Alura\aula2\Variaveis\Variaveis\obj\Debug\net8.0\Variaveis.genruntimeconfig.cache
+D:\Luiz\C#\C#-Alura\aula2\Variaveis\Variaveis\obj\Debug\net8.0\ref\Variaveis.dll
