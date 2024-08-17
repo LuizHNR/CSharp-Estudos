@@ -35,9 +35,29 @@ void ExibirOpcoesDoMenu()
     int opcao = int.Parse(opcaoEscolida);
 
     // uso do if
-    if (opcao == 1)
+    /*if (opcao == 1)
     {
         Console.WriteLine("Voce digitou a opção " + opcao);
+    }else (opcao == 2){
+        Console.WriteLine("Voce digitou a opção " + opcao);
+    }*/
+
+    // multiplas if use o switch, tem q ter break em todos
+    switch (opcao)
+    {
+        case 1: Console.WriteLine("Voce digitou a opção " + opcao);
+            break;
+        case 2: Console.WriteLine("Voce digitou a opção " + opcao);
+            break;
+        case 3: Console.WriteLine("Voce digitou a opção " + opcao);
+            break;
+        case 4: Console.WriteLine("Voce digitou a opção " + opcao);
+            break;
+        case 0: Console.WriteLine("Até logo :)");
+            break;
+        default: Console.WriteLine("Opção invalida");
+            break;
+
     }
 }
 
