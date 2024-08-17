@@ -18,4 +18,14 @@ void ExibirMensagemDeBoasVindas()
     Console.WriteLine(mensagemDeBoasVindas);
 }
 
+void ExibirOpcoesDoMenu()
+{
+    Console.WriteLine("\nDigite 1 para registra uma banda");
+    Console.WriteLine("Digite 2 para mostrar todas as banda");
+    Console.WriteLine("Digite 3 para avaliar uma banda");
+    Console.WriteLine("Digite 4 para exibir a media de uma banda");
+    Console.WriteLine("Digite 0 para sair");
+}
+
 ExibirMensagemDeBoasVindas();
+ExibirOpcoesDoMenu();
