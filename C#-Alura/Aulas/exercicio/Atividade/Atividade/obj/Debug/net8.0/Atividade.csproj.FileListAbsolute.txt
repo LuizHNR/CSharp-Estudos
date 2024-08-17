@@ -1,0 +1,15 @@
+D:\Luiz\C#\C#-Alura\Aulas\exercicio\Atividade\Atividade\bin\Debug\net8.0\Atividade.exe
+D:\Luiz\C#\C#-Alura\Aulas\exercicio\Atividade\Atividade\bin\Debug\net8.0\Atividade.deps.json
+D:\Luiz\C#\C#-Alura\Aulas\exercicio\Atividade\Atividade\bin\Debug\net8.0\Atividade.runtimeconfig.json
+D:\Luiz\C#\C#-Alura\Aulas\exercicio\Atividade\Atividade\bin\Debug\net8.0\Atividade.dll
+D:\Luiz\C#\C#-Alura\Aulas\exercicio\Atividade\Atividade\bin\Debug\net8.0\Atividade.pdb
+D:\Luiz\C#\C#-Alura\Aulas\exercicio\Atividade\Atividade\obj\Debug\net8.0\Atividade.GeneratedMSBuildEditorConfig.editorconfig
+D:\Luiz\C#\C#-Alura\Aulas\exercicio\Atividade\Atividade\obj\Debug\net8.0\Atividade.AssemblyInfoInputs.cache
+D:\Luiz\C#\C#-Alura\Aulas\exercicio\Atividade\Atividade\obj\Debug\net8.0\Atividade.AssemblyInfo.cs
+D:\Luiz\C#\C#-Alura\Aulas\exercicio\Atividade\Atividade\obj\Debug\net8.0\Atividade.csproj.CoreCompileInputs.cache
+D:\Luiz\C#\C#-Alura\Aulas\exercicio\Atividade\Atividade\obj\Debug\net8.0\Atividade.sourcelink.json
+D:\Luiz\C#\C#-Alura\Aulas\exercicio\Atividade\Atividade\obj\Debug\net8.0\Atividade.dll
+D:\Luiz\C#\C#-Alura\Aulas\exercicio\Atividade\Atividade\obj\Debug\net8.0\refint\Atividade.dll
+D:\Luiz\C#\C#-Alura\Aulas\exercicio\Atividade\Atividade\obj\Debug\net8.0\Atividade.pdb
+D:\Luiz\C#\C#-Alura\Aulas\exercicio\Atividade\Atividade\obj\Debug\net8.0\Atividade.genruntimeconfig.cache
+D:\Luiz\C#\C#-Alura\Aulas\exercicio\Atividade\Atividade\obj\Debug\net8.0\ref\Atividade.dll
