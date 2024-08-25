@@ -1,0 +1,15 @@
+D:\LuizH\C#\C#-Alura\Aulas\aula2\aula2\aula2\bin\Debug\net8.0\aula2.exe
+D:\LuizH\C#\C#-Alura\Aulas\aula2\aula2\aula2\bin\Debug\net8.0\aula2.deps.json
+D:\LuizH\C#\C#-Alura\Aulas\aula2\aula2\aula2\bin\Debug\net8.0\aula2.runtimeconfig.json
+D:\LuizH\C#\C#-Alura\Aulas\aula2\aula2\aula2\bin\Debug\net8.0\aula2.dll
+D:\LuizH\C#\C#-Alura\Aulas\aula2\aula2\aula2\bin\Debug\net8.0\aula2.pdb
+D:\LuizH\C#\C#-Alura\Aulas\aula2\aula2\aula2\obj\Debug\net8.0\aula2.GeneratedMSBuildEditorConfig.editorconfig
+D:\LuizH\C#\C#-Alura\Aulas\aula2\aula2\aula2\obj\Debug\net8.0\aula2.AssemblyInfoInputs.cache
+D:\LuizH\C#\C#-Alura\Aulas\aula2\aula2\aula2\obj\Debug\net8.0\aula2.AssemblyInfo.cs
+D:\LuizH\C#\C#-Alura\Aulas\aula2\aula2\aula2\obj\Debug\net8.0\aula2.csproj.CoreCompileInputs.cache
+D:\LuizH\C#\C#-Alura\Aulas\aula2\aula2\aula2\obj\Debug\net8.0\aula2.sourcelink.json
+D:\LuizH\C#\C#-Alura\Aulas\aula2\aula2\aula2\obj\Debug\net8.0\aula2.dll
+D:\LuizH\C#\C#-Alura\Aulas\aula2\aula2\aula2\obj\Debug\net8.0\refint\aula2.dll
+D:\LuizH\C#\C#-Alura\Aulas\aula2\aula2\aula2\obj\Debug\net8.0\aula2.pdb
+D:\LuizH\C#\C#-Alura\Aulas\aula2\aula2\aula2\obj\Debug\net8.0\aula2.genruntimeconfig.cache
+D:\LuizH\C#\C#-Alura\Aulas\aula2\aula2\aula2\obj\Debug\net8.0\ref\aula2.dll
