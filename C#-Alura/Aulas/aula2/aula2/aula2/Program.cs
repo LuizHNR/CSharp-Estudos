@@ -1,8 +1,11 @@
 ﻿// Screen Sound
 string mensagemDeBoasVindas = "Boas vindas GuruGuru";
 
+//Lista <tipo> nomeDaLista
+List<string> listaBandas = new List<string>();
+
 //void é uma função q não devolve nada, sem return
-void ExibirMensagemDeBoasVindas()
+void ExibirLogo()
 {
     //@ é o Verbatim Literal que é colocar a string do jeito q vc quer q apareça
     Console.WriteLine(@"
@@ -20,7 +23,7 @@ void ExibirMensagemDeBoasVindas()
 
 void ExibirOpcoesDoMenu()
 {
-    ExibirMensagemDeBoasVindas();
+    ExibirLogo();
 
     Console.WriteLine("\nDigite 1 para registra uma banda");
     Console.WriteLine("Digite 2 para mostrar todas as banda");
@@ -76,6 +79,7 @@ void RegistrarBanda()
     Console.Write("Digite o nome da banda que desejar registrar: ");
     // ! para nn retornar um valor nulo
     string nomeDaBanda = Console.ReadLine()!;
+    listaBandas.Add(nomeDaBanda);
     // $ é interporlação de string
     Console.WriteLine($"A banda {nomeDaBanda} foi registrada!!");
     Thread.Sleep(2000);
