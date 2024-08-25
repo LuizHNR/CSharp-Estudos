@@ -2,7 +2,7 @@
 string mensagemDeBoasVindas = "Boas vindas GuruGuru";
 
 //Lista <tipo> nomeDaLista
-List<string> listaBandas = new List<string>();
+List<string> listaBandas = new List<string> { "U2", "The Beatles" };
 
 //void é uma função q não devolve nada, sem return
 void ExibirLogo()
@@ -54,7 +54,7 @@ void ExibirOpcoesDoMenu()
             RegistrarBanda();
             break;
         case 2:
-            Console.WriteLine("Voce digitou a opção " + opcao);
+            MostrarBandasRegistradas();
             break;
         case 3:
             Console.WriteLine("Voce digitou a opção " + opcao);
@@ -75,7 +75,9 @@ void ExibirOpcoesDoMenu()
 void RegistrarBanda()
 {
     Console.Clear();
+    Console.WriteLine("\n*****************************************");
     Console.WriteLine("Registro de Bandas");
+    Console.WriteLine("*******************************************\n");
     Console.Write("Digite o nome da banda que desejar registrar: ");
     // ! para nn retornar um valor nulo
     string nomeDaBanda = Console.ReadLine()!;
@@ -84,6 +86,23 @@ void RegistrarBanda()
     Console.WriteLine($"A banda {nomeDaBanda} foi registrada!!");
     Thread.Sleep(2000);
     ExibirOpcoesDoMenu();
+}
+
+void MostrarBandasRegistradas(){
+    Console.Clear();
+    Console.WriteLine("\n*******************************************");
+    Console.WriteLine("Exibindo toda as Bandas Registradas");
+    Console.WriteLine("*********************************************\n");
+
+    for(int i = 0; i < listaBandas.Count; ++i)
+    {
+        Console.WriteLine($"Banda: {listaBandas[i]}");
+    }
+    Console.Write("Digite qualquer tecla para voltar para o meu principal: ");
+    Console.ReadKey();
+    Console.Clear();
+    ExibirOpcoesDoMenu();
+
 }
 
 ExibirOpcoesDoMenu();
