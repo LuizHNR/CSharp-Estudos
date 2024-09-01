@@ -5,7 +5,9 @@ string mensagemDeBoasVindas = "Boas vindas GuruGuru";
 //List<string> listaBandas = new List<string> { "U2", "The Beatles" };
 
 //Dicionario
-Dictionary<string, List<float>> bandasRegistradas = new Dictionary<string, List<float>>
+Dictionary<string, List<float>> bandasRegistradas = new Dictionary<string, List<float>>();
+bandasRegistradas.Add("Link Parck", new List<float> { 10, 8, 6});
+bandasRegistradas.Add("The Beatles", new List<float>());
 
 //void é uma função q não devolve nada, sem return
 void ExibirLogo()
@@ -82,10 +84,11 @@ void RegistrarBanda()
     Console.Write("Digite o nome da banda que desejar registrar: ");
     // ! para nn retornar um valor nulo
     string nomeDaBanda = Console.ReadLine()!;
-    listaBandas.Add(nomeDaBanda);
+    bandasRegistradas.Add(nomeDaBanda, new List<float>());
     // $ é interporlação de string
     Console.WriteLine($"A banda {nomeDaBanda} foi registrada!!");
     Thread.Sleep(1000);
+    Console.Clear();
     ExibirOpcoesDoMenu();
 }
 
@@ -99,7 +102,7 @@ void MostrarBandasRegistradas()
         Console.WriteLine($"Banda: {listaBandas[i]}");
     }*/
 
-    foreach (string banda in listaBandas)
+    foreach (string banda in bandasRegistradas.Keys)
     {
         Console.WriteLine($"Banda: {banda}");
     }
