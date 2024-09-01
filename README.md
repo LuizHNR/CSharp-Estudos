@@ -38,3 +38,8 @@ Aqui estão alguns recursos que complementam o conteúdo das aulas:
 ## Contribuições
 
 Este repositório é pessoal, mas se você tiver sugestões ou quiser contribuir com algo que possa enriquecer o conteúdo, fique à vontade para abrir um pull request ou uma issue.
+
+<h2 aling="center">Certificados</h2>
+<p>
+    <img align="center" src="./Certificados/Certificado1.jpeg >
+</p>
