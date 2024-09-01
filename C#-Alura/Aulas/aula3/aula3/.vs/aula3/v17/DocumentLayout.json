@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Luiz\\C#\\C#-Alura\\Aulas\\aula3\\aula3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6B51A270-AD9C-4077-BCFC-42A6BF758A3F}|aula3\\aula3.csproj|d:\\luiz\\c#\\c#-alura\\aulas\\aula3\\aula3\\aula3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B51A270-AD9C-4077-BCFC-42A6BF758A3F}|aula3\\aula3.csproj|solutionrelative:aula3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Luiz\\C#\\C#-Alura\\Aulas\\aula3\\aula3\\aula3\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:aula3\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "aula3\\Program.cs",
               "ToolTip": "D:\\Luiz\\C#\\C#-Alura\\Aulas\\aula3\\aula3\\aula3\\Program.cs",
               "RelativeToolTip": "aula3\\Program.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAQwFUAAAAZAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-31T23:00:04.582Z",
               "EditorCaption": ""

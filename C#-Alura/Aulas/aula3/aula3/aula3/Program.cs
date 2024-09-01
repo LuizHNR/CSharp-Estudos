@@ -2,7 +2,10 @@
 string mensagemDeBoasVindas = "Boas vindas GuruGuru";
 
 //Lista <tipo> nomeDaLista
-List<string> listaBandas = new List<string> { "U2", "The Beatles" };
+//List<string> listaBandas = new List<string> { "U2", "The Beatles" };
+
+//Dicionario
+Dictionary<string, List<float>> bandasRegistradas = new Dictionary<string, List<float>>
 
 //void é uma função q não devolve nada, sem return
 void ExibirLogo()
