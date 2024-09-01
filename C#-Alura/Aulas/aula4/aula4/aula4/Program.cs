@@ -158,8 +158,7 @@ void MediaBanda()
     if (bandasRegistradas.ContainsKey(nomeDaBanda))
     {
         List<float> notas = bandasRegistradas[nomeDaBanda];
-        double mediaNotas = notas.Average();
-        Console.WriteLine($"\nA banda {nomeDaBanda} tem a média de {mediaNotas}");
+        Console.WriteLine($"\nA banda {nomeDaBanda} tem a média de {notas.Average()}");
         Retornar();
     }
     else
@@ -177,6 +176,10 @@ void Retornar()
     {
         Console.Clear();
         ExibirOpcoesDoMenu();
+    }
+    else
+    {
+        Console.WriteLine("Até logo :) ");
     }
 
 }
