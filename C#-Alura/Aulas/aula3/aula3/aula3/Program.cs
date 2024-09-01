@@ -6,7 +6,7 @@ string mensagemDeBoasVindas = "Boas vindas GuruGuru";
 
 //Dicionario
 Dictionary<string, List<float>> bandasRegistradas = new Dictionary<string, List<float>>();
-bandasRegistradas.Add("Link Parck", new List<float> { 10, 8, 6});
+bandasRegistradas.Add("Linkin Parck", new List<float> { 10, 8, 6});
 bandasRegistradas.Add("The Beatles", new List<float>());
 
 //void é uma função q não devolve nada, sem return
@@ -68,7 +68,7 @@ void ExibirOpcoesDoMenu()
             Console.WriteLine("Voce digitou a opção " + opcao);
             break;
         case 0:
-            Console.WriteLine("Até logo :)");
+            Console.WriteLine("\nAté logo :)");
             break;
         default:
             Console.WriteLine("Opção invalida");
@@ -118,9 +118,9 @@ void ExibirTituloDaOpcao(string titulo)
 {
     int qtLetras = titulo.Length;
     string asteriscos = string.Empty.PadLeft(qtLetras, '*');
-    Console.WriteLine(asteriscos + "\n");
+    Console.WriteLine("\n" + asteriscos);
     Console.WriteLine(titulo);
-    Console.WriteLine("\n" + asteriscos + "\n");
+    Console.WriteLine(asteriscos + "\n");
 }
 
 void AvaliarBanda()
@@ -137,19 +137,30 @@ void AvaliarBanda()
         string nomeDaBanda = Console.ReadLine()!;
         if (bandasRegistradas.ContainsKey(nomeDaBanda))
         {
-
+            Console.Write($"Qual a nota que a banda {nomeDaBanda} merece: ");
+            float nota = float.Parse(Console.ReadLine()!);
+            bandasRegistradas[nomeDaBanda].Add(nota);
+            Console.WriteLine($"\nA nota {nota} foi registrada com sucesso para a banda {nomeDaBanda}");
+            Retornar();
         }
         else
         {
-            Console.WriteLine($"\nA banda {nomeDaBanda} não foi encontrada, você deseja voltar para o menu principal? S / N");
-            string opcao = Console.ReadLine().ToUpper();
-            if (opcao == "S")
-            {
-                Console.Clear();
-                ExibirOpcoesDoMenu();
-            }
+            Console.WriteLine($"\nA banda {nomeDaBanda} não foi encontrada");
+            Retornar();
         }
     }
+}
+
+void Retornar()
+{
+    Console.WriteLine("\nVocê deseja voltar para o menu principal ? S / N");
+    string opcao = Console.ReadLine().ToUpper();
+    if (opcao == "S")
+    {
+        Console.Clear();
+        ExibirOpcoesDoMenu();
+    }
+
 }
 
 ExibirOpcoesDoMenu();
