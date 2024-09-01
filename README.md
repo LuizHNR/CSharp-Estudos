@@ -41,5 +41,5 @@ Este repositório é pessoal, mas se você tiver sugestões ou quiser contribuir
 
 <h2 aling="center">Certificados</h2>
 <p>
-    <img align="center" src="./Certificados/Certificado1.jpeg >
+    <img align="center" src= "./Certificados/Certificado1.jpeg" >
 </p>
