@@ -1,0 +1,15 @@
+C:\Users\User\Documents\CSharp-Estudos\C#-Alura\Parte2\aula3\aula3\aula3\bin\Debug\net9.0\aula3.exe
+C:\Users\User\Documents\CSharp-Estudos\C#-Alura\Parte2\aula3\aula3\aula3\bin\Debug\net9.0\aula3.deps.json
+C:\Users\User\Documents\CSharp-Estudos\C#-Alura\Parte2\aula3\aula3\aula3\bin\Debug\net9.0\aula3.runtimeconfig.json
+C:\Users\User\Documents\CSharp-Estudos\C#-Alura\Parte2\aula3\aula3\aula3\bin\Debug\net9.0\aula3.dll
+C:\Users\User\Documents\CSharp-Estudos\C#-Alura\Parte2\aula3\aula3\aula3\bin\Debug\net9.0\aula3.pdb
+C:\Users\User\Documents\CSharp-Estudos\C#-Alura\Parte2\aula3\aula3\aula3\obj\Debug\net9.0\aula3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\CSharp-Estudos\C#-Alura\Parte2\aula3\aula3\aula3\obj\Debug\net9.0\aula3.AssemblyInfoInputs.cache
+C:\Users\User\Documents\CSharp-Estudos\C#-Alura\Parte2\aula3\aula3\aula3\obj\Debug\net9.0\aula3.AssemblyInfo.cs
+C:\Users\User\Documents\CSharp-Estudos\C#-Alura\Parte2\aula3\aula3\aula3\obj\Debug\net9.0\aula3.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CSharp-Estudos\C#-Alura\Parte2\aula3\aula3\aula3\obj\Debug\net9.0\aula3.sourcelink.json
+C:\Users\User\Documents\CSharp-Estudos\C#-Alura\Parte2\aula3\aula3\aula3\obj\Debug\net9.0\aula3.dll
+C:\Users\User\Documents\CSharp-Estudos\C#-Alura\Parte2\aula3\aula3\aula3\obj\Debug\net9.0\refint\aula3.dll
+C:\Users\User\Documents\CSharp-Estudos\C#-Alura\Parte2\aula3\aula3\aula3\obj\Debug\net9.0\aula3.pdb
+C:\Users\User\Documents\CSharp-Estudos\C#-Alura\Parte2\aula3\aula3\aula3\obj\Debug\net9.0\aula3.genruntimeconfig.cache
+C:\Users\User\Documents\CSharp-Estudos\C#-Alura\Parte2\aula3\aula3\aula3\obj\Debug\net9.0\ref\aula3.dll
